@@ -1,6 +1,5 @@
 # unicorn
 DS 330 - UNICORN DATA
-
 Structure
 |--unicorn                         ===== ROOT
   |--project                            ===== Our Project folder
